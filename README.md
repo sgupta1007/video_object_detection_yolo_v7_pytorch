@@ -5,8 +5,11 @@ object detection in video by using yolo v7 in pytorch
 Pytorch,OpenCv
 
 **Instructions to Run**
+
 Download the yolov7.pt from https://github.com/WongKinYiu/yolov7 and paste the file inside the yolov7forobjectdetectionvideo folder
 Run the main.py file inside the yolov7forobjectdetectionvideo using command **python3 main.py** 
+
+**Output Video Link and Generated Output Sample**
 
 
 Video used for testing purpose is downloaded from https://pixabay.com/videos/road-movement-sunset-sun-moscow-84970/
