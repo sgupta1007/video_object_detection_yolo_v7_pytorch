@@ -1,7 +1,9 @@
 # video_object_detection_yolo_v7_pytorch
 object detection in video by using yolo v7 in pytorch 
 **Prerequisite**
+
 Pytorch,OpenCv
+
 **Instructions to Run**
 Download the yolov7.pt from https://github.com/WongKinYiu/yolov7 and paste the file inside the yolov7forobjectdetectionvideo folder
 Run the main.py file inside the yolov7forobjectdetectionvideo using command **python3 main.py** 
